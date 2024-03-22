@@ -1,0 +1,410 @@
+@media screen and (max-width: 1169px) {
+    .header-bottum-menu{gap: 40px;}
+    .banner-text-block h1{font-size: 62px;line-height: 75px;}
+    .banner-text-block p{line-height: 25px;margin: 20px 0 30px 0;}
+    .banner-text-block .btn{font-size: 18px;padding: 15px 40px;}
+
+    #our_features{padding: 90px 0 0 0;}
+    .features-text-block h5{line-height: 30px;}
+    .features-text-block h2{font-size: 36px;line-height: 50px;}
+    .feature_img-block{max-width: 100%;--bs-aspect-ratio: 45%;}
+
+    #our-about-us{padding: 80px 0;}
+    .elevate-beauty-img{max-width: 100%;--bs-aspect-ratio: 95%;}
+    .elevate-card-block:nth-child(even){top: 40px;}
+    .beauty-of-home h5{line-height: 30px;}
+    .beauty-of-home h2{font-size: 37px;line-height: 50px;margin-bottom: 15px;}
+    .home-information{margin-bottom: 15px;margin-top: 10px;padding-top: 10px;padding-bottom: 20px;}
+    .home-information ul li{line-height: 24px;margin-bottom: 8px;}
+    .call-us-anytime{padding-top: 30px;}
+    .counter-box{padding: 45px 20px 45px 20;left: 115px;top: 58%;}
+    .counter-box h2{font-size: 65px;}
+    .counter-box span{font-size: 65px;}
+    .counter-box h4{font-size: 18px;}
+
+    #our-services{padding: 80px 0;}
+    .our-text-element h5{line-height: 30px;}
+    .our-text-element h2{font-size: 38px;line-height: 50px;}
+    .apartment-card-box h4{font-size: 24px;line-height: 30px;margin: 25px 0 28px 0;}
+    .apartment-card-box ul li a{line-height: 30px;}
+    .apartment-card-box{padding: 48px 27px;}
+    .plus-icon{margin-top: 20px;}
+    .design-card-elem{padding-top: 40px;}
+
+    #foundation-section{padding: 90px 0;}
+    .foundation-counter-main-block h4{font-size: 14px;line-height: 15px;}
+    .foundation-counter-main-block h2{font-size: 38px;}
+
+    #provide-high-quality{padding: 90px 0;}
+    .high-range-block h5{line-height: 30px;}
+    .high-range-block h2{font-size: 37px;line-height: 50px;margin-bottom: 20px;}
+    .materials-text-block > p{max-width: 344px;line-height: 27px;}
+    .high-range-block > p{margin: 8px 0 20px 0;}
+    .materials-main-block{gap: 25px;margin-bottom: 10px;}
+    .materials-text-block h4{line-height: 32px;font-size: 23px;}
+    .materials-main-block .check-mark-block{width: 70px;height: 70px;}
+    .quality-img-block{max-width: 95.5%;}
+
+    #our-member{padding: 90px 0 90px 0;}
+    .our-text-block h5{line-height: 30px;}
+    .our-text-block h2{font-size: 37px;line-height: 50px;}
+    .team-image-card{--bs-aspect-ratio: 120%;}
+    .member-block{padding-top: 40px;}
+    .team-member-icon-element{bottom: 25px;}
+
+    #renovation-section{padding: 130px 0 140px 0;}
+    .bling-block h2{font-size: 37px;line-height: 50px;}
+
+
+    #our-project{padding: 90px 0;}
+    .project-text-block h5{line-height: 30px;}
+    .project-text-block h2{font-size: 37px;line-height: 50px;}
+    .latest-pro-block{padding-top: 42px;}
+    .slick-prev{left: 0;}
+    .slick-next{right: 0;}
+
+    #our-testmonial{padding: 80px 0 40px 0;}
+    .testimonial-text-block h5{line-height: 30px;}
+    .testimonial-text-block h2{font-size: 37px;line-height: 50px;}
+    .beauty-name h4{font-size: 23px;}
+    .home-beauty-card{padding: 50px 30px 20px 30px;}
+    .testimonial-text-block{max-width: 520px;}
+
+    #web-design-section{padding: 65px 0;}
+
+    #interior-family{padding: 90px 0;}
+    .interior-element-heading-text h5{line-height: 30px;}
+    .interior-element-heading-text h2{font-size: 37px;line-height: 50px;}
+    .interior-house-img{max-width: 92.5%;--bs-aspect-ratio: 111%;}
+    .accordion-body p{margin-bottom: 10px;}
+    .inerior-menu li a{padding: 8px 0;}
+    .interior-element-heading-text h2{margin-bottom: 20px;}
+
+    .require-element-text{padding: 85px 60px 75px 60px;}
+    .require-element-text h3{font-size: 26px;max-width: 490px;}
+    .require-element-text a{font-size: 18px;padding: 16px 32px;}
+
+    #blog-post-section{padding: 215px 0 65px 0;}
+    .blog-ele-text h5{line-height: 30px;}
+    .blog-ele-text h2{line-height: 50px;font-size: 37px;}
+    .latest-post{margin-top: 20px;}
+    .source-text{padding: 20px 15px 30px 20px;}
+
+    .admin-block h4{font-size: 22px;}
+    .admin-block p{margin-bottom: 15px;}
+
+    .footer-top{padding: 80px 0;}
+    .logo-block p{font-size: 16px;line-height: 25px;}
+}
+@media screen and (max-width: 991px) {
+    .top-menu{gap: 20px;}
+    .top-menu li span{font-size: 14px;}
+    .header-bottum-menu{gap: 15px;}
+    .header-bar-icon{margin-left: 13px;}
+    .header-search-icon{margin-left: 13px;}
+
+    .banner-text-block h1{font-size: 50px;line-height: 60px;}
+    .banner-text-block p{margin: 15px 0 25px 0;line-height: 24px;}
+    .banner-text-block{max-width: 435px;}
+    .banner-text-block .btn{font-size: 17px;padding: 12px 30px;}
+
+    .features-text-block h2{font-size: 30px;line-height: 45px;}
+    .features-text-block h5{font-size: 16px;line-height: 25px;margin-bottom: 5px;}
+    #our_features{padding: 80px 0 0 0;}
+
+    #our-about-us{padding: 70px 0;}
+    .counter-box {left: 50%;transform: translate(-50%, -50%);}
+    .elevate-beauty-img{max-width: 95%;--bs-aspect-ratio: 88%;}
+    .beauty-of-home h5{font-size: 16px;line-height: 25px;margin-bottom: 5px;}
+    .beauty-of-home h2{font-size: 33px;line-height: 45px;}
+    .call-element-text a{font-size: 28px;}
+    .beauty-of-home{max-width: 470px;}
+
+    #our-services{padding: 70px 0;}
+    .design-card-elem{padding-top: 35px;}
+    .our-text-element h5{font-size: 16px;line-height: 25px;margin-bottom: 5px;}
+    .our-text-element h2{font-size: 33px;line-height: 45px;}
+    .apartment-card-box h4{font-size: 23px;}
+
+    #foundation-section{padding: 75px 0;}
+
+    #provide-high-quality{padding: 75px 0;}
+    .high-range-block h5{font-size: 16px;line-height: 25px;margin-bottom: 5px;}
+    .high-range-block h2{font-size: 33px;line-height: 45px;max-width: 450px;}
+    .materials-text-block h4{font-size: 22px;line-height: 30px;}
+    .materials-text-block > p{line-height: 25px;max-width: 432px;}
+
+    #our-member{padding: 75px 0;}
+    .our-text-block h5{font-size: 16px;line-height: 25px;margin-bottom: 5px;}
+    .our-text-block h2{font-size: 33px;line-height: 45px;}
+    .member-block{padding-top: 35px;}
+    .team-member-icon-element{bottom: 32px;}
+    .team-bg-box h5{font-size: 24px;margin-bottom: 7px;}
+
+    #renovation-section{padding: 100px 0;}
+    .building-text h2{font-size: 35px;line-height: 45px;}
+    .bling-block a{width: 90px;height: 90px;}
+    .building-text{max-width: 650px;}
+
+    #our-project{padding: 75px 0;}
+    .project-text-block h5{font-size: 16px;line-height: 25px;margin-bottom: 5px;}
+    .project-text-block h2{font-size: 33px;line-height: 45px;}
+    .latest-pro-block{padding-top: 35px;}
+    .hover-text h4{font-size: 21px;line-height: 20px;margin-bottom: 5px;}
+    .hover-text span{font-size: 16px;}
+    .recent-project-img a{width: 60px;height: 60px;font-size: 25px;left: 20px;top: 20px;}
+    .latest-pro-block .slick-arrow{width: 50px;height: 50px;}
+    .latest-pro-block .slick-arrow:before{font-size: 26px;}
+
+    #our-testmonial{padding: 70px 0;}
+    .testimonial-text-block h5{font-size: 16px;line-height: 25px;margin-bottom: 5px;}
+    .testimonial-text-block h2{font-size: 33px;line-height: 45px;}
+    .home-beauty-card p{font-size: 16px;line-height: 25px;padding-top: 22px;margin-bottom: 15px;}
+    .beauty-name h4{font-size: 21px;line-height: 25px;}
+    .beauty-name span{font-size: 16px;line-height: 20px;}
+    .rating li i{font-size: 18px;}
+    .rating{gap: 7px;}
+    .testimonial-text-block{max-width: 460px;}
+
+    #interior-family{padding: 75px 0;}
+    .interior-element-heading-text h5{font-size: 16px;line-height: 25px;margin-bottom: 5px;}
+    .interior-element-heading-text h2{font-size: 33px;line-height: 45px;margin-bottom: 15px;}
+    .interior-descripsion-block{padding-top: 0;}
+    .inerior-menu li a{padding: 5px 0;}
+
+    .require-element-text h3{font-size: 20px;line-height: 28px;}
+    .require-element-text a{font-size: 16px;padding: 12px 20px;}
+    .require-element-text{padding: 70px 60px;}
+
+    #blog-post-section{padding: 200px 0 65px 0;}
+    .blog-ele-text h5{font-size: 16px;line-height: 25px;margin-bottom: 5px;}
+    .blog-ele-text h2{font-size: 33px;line-height: 45px;}
+
+    .footer-text-block h3{margin-bottom: 20px;}
+    .footer-text-block h3{font-size: 25px;}
+
+}
+@media screen and (max-width: 767px) {
+    #header{position: sticky;}
+    .fixed-header .header-bottum {box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);}
+    .header-top{display: none;}
+    .fixed-header .header-top{margin-top: 0;}
+    .header-bottum{padding: 11px 0;}
+    body{padding-top: 0;}
+    .right-sidebar-block{display: none;}
+    .header-bottum-menu {flex-direction: column;position: fixed;right: -100%;top: 61px;background: #fff;width: 100%;height: calc(100vh - 61px);visibility: visible;transition: all ease 0.5s;border-top: 1px solid #000;gap: 0;}
+    .header-bottum-menu > li > a{line-height: 50px;position: relative;left: 0px;top: 0px;display: block;padding: 0 15px;}
+    .fixed-header .header-bottum-menu > li > a{line-height: 50px;position: relative;left: 0;top: 0px;display: block;}
+    .sidebar-on .header-bottum-menu{right: 0%;}
+    .menu-bar-off{position: absolute;right: 15px;top: 10px;}
+    .menu-bar-off i{font-size: 30px;}
+    .header-bottum-menu > li{width: 100%;border-bottom: 1px solid #000;}
+    .header-bottum-menu > li:nth-child(6){border-bottom: none;}
+    .sub-menu{display: block;}
+    .header-bottum-menu > li:hover .sub-menu{display: none;}
+    .header-bottum-menu > li.open-sub-menu .sub-menu{display: block;}
+    .sub-menu{position: inherit;top: 0;width: 100%;visibility: visible;opacity: 1;box-shadow: none;display: none;}
+    .sub-menu li{padding: 0 15px;}
+
+
+    .banner-text-block h1{font-size: 40px;line-height: 40px;}
+    .banner-text-block p{font-size: 16px;line-height: 20px;margin: 12px 0 20px 0;}
+    .banner-text-block .btn{font-size: 16px;padding: 10px 25px;}
+
+    #our_features{padding: 65px 0 0 0;}
+    .features-text-block{max-width: 490px;}
+    .feature_img-block{max-width: 90%;--bs-aspect-ratio: 38%;margin-top: 20px;}
+
+    #our-about-us{padding: 65px 0;}
+    .about-text-main-block{padding-top: 30px;}
+    .beauty-of-home h2{font-size: 30px;}
+    .beauty-of-home{max-width: none;}
+    .beauty-of-home p{margin: 10px 0 5px 0;}
+    .call-element-icon{width: 50px;height: 50px;margin-right: 20px;}
+    .call-element-icon a i{font-size: 20px;display: block;text-decoration: none;}
+    .call-element-icon a{text-decoration: none;}
+
+    #our-services{padding: 65px 0;}
+    .our-text-element h2{font-size: 30px;}
+    .design-card-elem{padding-top: 30px;}
+    .apartment-card-box{padding: 25px 20px;}
+    .apartment-card-box h4{font-size: 22px;margin: 20px 0;}
+    .plus-icon{margin-top: 15px;}
+
+    #foundation-section{padding: 65px 0;}
+
+    #provide-high-quality{padding: 65px 0;}
+    .high-range-block h2{font-size: 30px;}
+    .materials-text-block h4{font-size: 21px;}
+    .materials-text-block > p{font-size: 16px;line-height: 22px;}
+    .materials-main-block .check-mark-block{width: 50px;height: 50px;}
+    .materials-main-block{gap: 20px;}
+
+    #our-member{padding: 65px 0;}
+    .team-bg-box h5{font-size: 23px;}
+    .team-member-icon-element{bottom: 15px;}
+    .our-text-block h2{font-size: 30px;}
+    .member-block{padding-top: 30px;}
+
+    #renovation-section{padding: 70px 0;}
+    .bling-block a{width: 80px;height: 80px;}
+    .building-text h2{font-size: 30px;line-height: 40px;}
+
+    #our-project{padding: 65px 0;}
+    .project-text-block h2{font-size: 30px;}
+    .latest-pro-block{padding-top: 30px;}
+
+    #our-testmonial{padding: 65px 0;}
+    .testimonial-text-block h2{font-size: 30px;}
+    .home-beauty-card{margin: 15px 0;}
+
+    #web-design-section{padding: 60px 0;}
+    .require-element-text{padding: 60px 15px;}
+
+    #interior-family{padding: 65px 0;}
+    .interior-house-img{max-width: 75%;}
+    .interior-element-heading-text h2{font-size: 30px;}
+    .require-element-text h3{max-width: 466px;}
+    .require-element-text a{font-size: 15px;padding: 10px 20px;}
+
+    .blog-ele-text h2{font-size: 30px;}
+    #blog-post-section{padding: 190px 0 65px 0;}
+    .latest-post{margin-top: 10px;}
+
+    .footer-top{padding: 65px 0;}
+    .f-b-text p{font-size: 16px;}
+    .f-b-menu ul li a{font-size: 16px;}
+    .footer-bottum{padding: 22px 0;}
+    .footer-text-block form{height: 50px;font-size: 15px;}
+    .footer-text-block form button{height: 48px;}
+
+}
+@media screen and (max-width: 575px) {
+    #header{position: sticky;}
+
+    .banner-img img{width: 100%;height: 100%;object-fit: cover;object-position: center;}
+    .banner-text-block h1{font-size: 35px;}
+    .banner-text-block{text-align: center;max-width: none;}
+    .banner-text-block p{line-height: 20px;}
+    .banner-img{position: absolute;left: 0;top: 0;bottom: 0;}
+    .banner-main-block{position: relative;transform: inherit;padding: 50px 0;}
+    
+    #our_features{padding: 50px 0 0 0;}
+    .features-text-block h5{font-size: 15px;margin-bottom: 10px;}
+    .features-text-block h2{font-size: 24px;line-height: 34px;}
+    .feature-card-block{margin: 0;}
+    .features-text-block{text-align: center;max-width: none;}
+    .feature_img-block{margin: 25px 0;max-width: 100%;}
+    .feature_img-block img{padding: 0;}
+
+    #our-about-us{padding: 50px 0;}
+    .image-card-box{position: inherit;}
+    .counter-box{transform: inherit;position: inherit;margin-top: 20px;padding: 20px 0px;}
+    .elevate-card-block:nth-child(even){top: 0;}
+    .elevate-beauty-img{max-width: 100%;}
+    .about-image-block{row-gap: 15px;column-gap: 15px;}
+    .counter-box h2{font-size: 45px;line-height: 40px;}
+    .counter-box span{font-size: 45px;line-height: 35px;}
+    .counter-box h4{font-size: 16px;}
+    .beauty-of-home h2{font-size: 28px;line-height: 38px;}
+    .beauty-of-home p{margin: 10px 0 5px 0;line-height: 22px;}
+    .about-text-main-block{padding-top: 10px;}
+    .counter-box h4{line-height: 15px;}
+    .home-information{display: flex;flex-direction: column;gap: 25px;padding-bottom: 15px;margin-top: 5px;padding-top: 5px;}
+    .home-img{max-width: 100%;--bs-aspect-ratio: 60%;}
+    .home-information ul li{font-size: 16px;line-height: 20px;}
+    .call-element-icon{width: 40px;height: 40px;}
+    .call-element-icon a i{font-size: 18px;}
+    .call-us-anytime{padding-top: 30px;}
+    .call-element-text p{font-size: 16px;}
+    .call-element-text a{font-size: 20px;line-height: 20px;}
+    .elevate-card-block{width: calc(50% - 7.5px);}
+
+    #our-services{padding: 50px 0;}
+    .our-text-element h5{font-size: 15px;}
+    .our-text-element h2{font-size: 24px;line-height: 35px;}
+    .apartment-card-box h4{font-size: 20px;margin: 15px 0;line-height: 25px;}
+    .apartment-card-box ul li a{line-height: 28px;font-size: 16px;}
+
+    #foundation-section{padding: 50px 0;}
+    .foundation-main-block{justify-content: center;display: flex;flex-direction: column;gap: 7px;}
+    .foundation-class-line{border-bottom: 1px solid #fff;position: relative;z-index: 1;padding-bottom: 20px;}
+    .foundation-class-line:last-child{border-bottom: none;padding-bottom: 0;}
+    .counter-element-block{display: flex;justify-content: center;}
+    .foundation-counter-main-block h2{font-size: 35px;}
+    .foundation-counter-main-block span{font-size: 35px;}
+
+    #provide-high-quality{padding: 50px 0;}
+    .high-range-block h5{font-size: 15px;line-height: 20px;margin-bottom: 10px;}
+    .high-range-block h2{font-size: 24px;line-height: 35px;margin-bottom: 15px;}
+    .materials-text-block h4{font-size: 20px;line-height: 25px;}
+    .materials-main-block{gap: 15px;margin-bottom: 5px;}
+    .high-range-block > p{font-size: 16px;}
+    .materials-text-block > p{max-width: 185px;font-size: 15px;line-height: 20px;}
+    .materials-main-block .check-mark-block{width: 40px;height: 40px;}
+    .materials-text-block{width: calc(100% - 55px);}
+
+    .require-element-text{padding: 50px 0;}
+    .require-element-text a{margin-top: 20px;}
+
+    #our-member{padding: 50px 0;}
+    .our-text-block h5{font-size: 15px;line-height: 20px;margin-bottom: 10px;}
+    .our-text-block h2{font-size: 24px;line-height: 35px;}
+    .team-bg-box h5{font-size: 22px;}
+    .team-bg-box span{font-size: 16px;}
+
+    #renovation-section{padding: 60px 0;}
+    .bling-block a{width: 70px;height: 70px;}
+    .building-text h2{font-size: 23px;line-height: 35px;margin: 35px 0 5px 0;}
+    .building-text{max-width: none;}
+    
+    #our-project{padding: 50px 0;}
+    .project-text-block h5{font-size: 15px;line-height: 20px;margin-bottom: 10px;}
+    .project-text-block h2{font-size: 24px;line-height: 35px;}
+
+    #our-testmonial{padding: 50px 0;}
+    .testimonial-text-block h5{font-size: 15px;line-height: 25px;margin-bottom: 10px;}
+    .testimonial-text-block h2{font-size: 23px;line-height: 35px;}
+    .home-beauty-card{margin: 0;}
+    .home-beauty-card p{padding-top: 15px;}
+    .five-star-rating{margin-top: 15px;}
+    .home-beauty-card{padding: 35px 30px 25px 30px;}
+
+    #web-design-section{padding: 50px 0;}
+
+    #interior-family{padding: 50px 0;}
+    .interior-house-img{max-width: 100%;--bs-aspect-ratio: 100%;}
+    .interior-element-heading-text h2{font-size: 24px;line-height: 35px;}
+    .interior-element-heading-text h5{font-size: 15px;line-height: 20px;margin-bottom: 10px;}
+    .interior-element-heading-text p{font-size: 16px;line-height: 25px;margin: 10px 0 16px 0;}
+    .inerior-menu li a{font-size: 16px;line-height: 25px;}
+    .accordion-body p{padding: 5px 20px 0 10px;}
+    .require-element-text{display: flex;flex-direction: column;text-align: center;}
+    .require-element-text a{margin-top: 15px;}
+    .materials-text-block > p{max-width: none;}
+
+    #blog-post-section{padding: 180px 0 50px 0;}
+    .blog-ele-text h2{font-size: 24px;line-height: 35px;}
+    .admin-block h4{font-size: 20px;line-height: 25px;margin: 10px 0;}
+    .admin-block p{margin-bottom: 10px;font-size: 16px;line-height: 20px;}
+    .blog-btn{font-size: 14px;}
+    .latest-main-block{margin: 0;}
+    .latest-post{margin-top: 30px;}
+    .blog-ele-text h5{font-size: 15px;line-height: 15px;margin-bottom: 10px;}
+
+    .footer-top{padding: 50px 0;border-bottom: 1px solid #fff;position: relative;}
+    .footer-text-block h3{font-size: 24px;line-height: 20px;}
+    .f-b-text{text-align: center;}
+    .f-b-menu ul{justify-content: center;margin-top: 5px;}
+    .footer-bottum{padding: 20px 0;}
+    .footer-main-block{row-gap: 20px;}
+    .footer-menu li a{font-size: 16px;}
+    .footer-menu{gap: 5px;}
+    .footer-text-block p, .contact-no, .email-text{font-size: 16px;}
+    .footer-text-block form button{width: 100px;font-size: 15px;height: 48px;}
+    .footer-text-block input{width: calc(100% - 100px);}
+    .logo-block p{line-height: 22px;}
+}
+@media screen and (max-width: 319px) {
+    
+}
